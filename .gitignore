@@ -10,3 +10,5 @@ data/
 .DS_Store
 Thumbs.db
 .vscode/
+
+*.code-workspace
