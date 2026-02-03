@@ -1,0 +1,2 @@
+﻿-r requirements-base.txt
+# Linux does NOT use pywin32
