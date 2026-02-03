@@ -1,4 +1,1 @@
-pandas
-openpyxl
-pywin32
-python-docx
+﻿-r requirements-windows.txt
