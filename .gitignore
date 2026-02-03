@@ -1,0 +1,12 @@
+﻿# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local data (keep out of git unless explicitly needed)
+data/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
