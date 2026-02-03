@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../college-automation-suite"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../NeuroNote"
+		},
+		{
+			"path": "../PTZ-Control-Utility"
+		},
+		{
+			"path": "../RTC-Academic-Pathfinder"
+		},
+		{
+			"path": "../stack-sharepoint-admin"
+		},
+		{
+			"path": "../../CITL Powershell Fixes"
+		}
+	],
+	"settings": {}
+}
